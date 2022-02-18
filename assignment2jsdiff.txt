@@ -1,0 +1,21 @@
+Browser JS(console)
+	1.Window is a predefined global object which has functions and attributes.
+	2.location is a predefined object.
+	3.Require is not predefined.
+	4.can write the code outside module ie.module not required.
+	5.Javascript is sandboxed 
+Node JS
+	1.Has require is redefined.
+	2.have to write the code inside the module.
+	3.has full access to the system.
+	4.uses javascript engine of a browser(chrome).
+	5.contains pre defined golbal and contains functions that are not available in the browser.
+
+video summary
+1.High Level Flow
+{Html,js,css}->Render tree->layout->paint(outlook)
+2.Parsing in Html and its syntax.
+3.parsing flow
+{tokeniser->tree constructs->DOM tree->script excution }circular path flow
+4.CSS : sstyling and its options
+5.Html,css insights
